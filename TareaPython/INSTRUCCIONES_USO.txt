@@ -1,0 +1,3 @@
+Se debe levantar el entorno virtual, dentro de esta carpeta y luego ejecutar jupyter notebook. 
+Una vez en Jupyter, se debe ejecutar el archivo "Analisis IRS Bancos Chile.ipynb" y seguir las
+instrucciones que ahí aparecen.
